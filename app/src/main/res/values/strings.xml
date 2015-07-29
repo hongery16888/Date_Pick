@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day view</string>
+    <string name="action_three_day_view">3 day view</string>
+    <string name="action_week_view">Week view</string>
+    <string name="test_txt">三字经扫盲:焱(yàn) 垚(yáo) 犇(bēn) 掱(pá) 瞐(mò)畾(lěi) 骉(biāo) 羴（shān）猋（biāo）麤（cū）鱻（xiān）赑（bì）聶（niè）矗（chù）龘（tà、dá）厵（yuán）飝（fēi）刕（lí）尛（mó）歮（sè）飍（xiū）雥（zá）嚞（zhé）馫（xīn）灥（xún）
+    【三字经扫盲】焱(yàn) 垚(yáo) 犇(bēn) 掱(pá) 瞐(mò)畾(lěi) 骉(biāo) 羴（shān）猋（biāo）麤（cū）鱻（xiān）赑（bì）聶（niè）矗（chù）龘（tà、dá）厵（yuán）飝（fēi）刕（lí）尛（mó）歮（sè）飍（xiū）雥（zá）嚞（zhé）馫（xīn）灥（xún）。你能读出几个？</string>
+    <string name="your_name_cannot_be_empty">名字不能为空，你懂的！</string>
+    <string name="your_name_is_ugly">名字太丑了，你又懂了！</string>
+</resources>
