@@ -1,12 +1,25 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:orientation="vertical">
 
-    <iori.hd.DatePicker
-        android:id="@+id/datePicker1"
+    <TextView
+        android:id="@+id/time"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-    </iori.hd.DatePicker>
+        android:layout_height="wrap_content"
+        android:hint="选择的时间"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"
+        android:padding="10dip"/>
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="按"
+        android:textColor="@android:color/black"
+        android:textSize="100dip"/>
 
 </LinearLayout>

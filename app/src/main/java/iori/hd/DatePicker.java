@@ -322,6 +322,7 @@ public class DatePicker extends LinearLayout {
 	public interface OnSelectingListener {
 
 		public void selected(boolean selected);
+
 	}
 
 }
